@@ -8,8 +8,8 @@ GDS0453 - Documentación proyecto IoT
 ## Objetivo general
 Mostrar al usuario el consumo de energía que consume en un espacio en específico mediante una aplicacion de IoT
 ### Objetivos específicos
-- Elemento 1 de la lista de objetivos específicos
-- Elemento 2 de la lista de objetivos específicos
+- 1.- Planeación de prototipo.
+- 2.- Diseñado del prototipo 
 - Elemento 3 de la lista de objetivos específicos
 - Elemento 4 de la lista de objetivos específicos
 ...
