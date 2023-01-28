@@ -6,7 +6,8 @@ GDS0453 - Documentación proyecto IoT
 - José Manuel Sánchez Arredondo
 
 ## Objetivo general
-Mostrar al usuario el consumo de energía que consume en un espacio en específico mediante una aplicacion de IoT
+El objetivo en general de nuestro proyecto es proteger espacios que no estan seguros o son propensos a se inseguros, por lo que proponemos
+nuestro proyecto para hacer seguras de esas zonas a las que propensa la inseguridad de algun espacio.
 ### Objetivos específicos
 - 1.- Planeación de prototipo.
 - 2.- Diseñado del prototipo.
@@ -19,9 +20,12 @@ Mostrar al usuario el consumo de energía que consume en un espacio en específi
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
-|1.1|          |         |      |
-|1.2|          |         |      |
-|1.3|          |         |      |
+|1.1|Arduino IDE | 2-0.4 | |Freeware|
+|1.2|Visual Studio Code | 1.74.3 ||Freeware|
+|1.3|Mosquitto   | 5.0.3.1.1||Freeware|
+|1.4|Node-Red   | 3.0.2 |Freeware|
+|1.4|Node.js  | 18.13.0 |Freeware|
+
 
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
