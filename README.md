@@ -48,10 +48,10 @@ nuestro proyecto para hacer seguras de esas zonas a las que propensa la inseguri
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|3.1 | Yo como usuario quiero detectar personas o algunas otras entidades agenas a un cierto espacio. | Alta | 3 Meses  |              |             |
-| 3.2 | Yo como usuario quiero iluminar la zona detectada con precencia de otras ajenas a un cierto espacio. | Alta | 3 Meses | |             |
-| 3.3 | Yo como usuario quiero que el dispositivo lance una alarma la cual avise si se detecto un movimiento. | Alta | 1 Mes |               |             |
-| 3.4 | Yo como usuario quiero poder almacenar informción de las detecciones que se dieron en cada activación de del dispositivo. | Semi-Alta | 1 Mes |               |             |
+|3.1 | Yo como usuario quiero detectar personas o algunas otras entidades agenas a un cierto espacio. | Alta | 3 Meses  | Pasar frente al dispositivo y revisar el celular si llego alguna notificacion de la app.| Brandon y José Manuel |
+| 3.2 | Yo como usuario quiero iluminar la zona detectada con precencia de otras ajenas a un cierto espacio. | Alta | 3 Meses | Pasar frente al dispositivo y ver si enciende el foco.| Brandon y José Manuel |
+| 3.3 | Yo como usuario quiero que el dispositivo lance una alarma la cual avise si se detecto un movimiento. | Alta | 1 Mes | Pasar frente al dispositivo y ver si emite un sonido.|             |
+| 3.4 | Yo como usuario quiero poder almacenar informción de las detecciones que se dieron en cada activación de del dispositivo. | Semi-Alta | 1 Mes | Checar en el dispositivo el registro de las detecciones.  |             |
 | 3.5 | Yo como usuario quiero poder consultar las detecciones que se dieron en cada activación del dispositivo. | Semi-Alta | 1 Mes | A través de un dispositivo móvil | Brandon |
 
 ## Prototipo en dibujo
