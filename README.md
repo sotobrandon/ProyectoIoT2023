@@ -39,18 +39,20 @@ nuestro proyecto para hacer seguras de esas zonas a las que propensa la inseguri
 |2.7| Buzzer  | Es un pequeño duspositivo capaz de convertir energía eléctrica en sonido. |        |  1       | $20             |
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
-- Yo como usuario quiero
-- Yo como usuario quiero 
-- Yo como usuario quiero 
-- Yo como usuario quiero 
-- Yo como usuario quiero 
+- Yo como usuario quiero detectar personas o algunas otras entidades agenas a un cierto espacio.
+- Yo como usuario quiero iluminar la zona detectada con precencia de otras ajenas a un cierto espacio.
+- Yo como usuario quiero que el dispositivo lance una alarma la cual avise si se detecto un movimiento.
+- Yo como usuario quiero poder almacenar informción de las detecciones que se dieron en cada activación de del dispositivo.
+- Yo como usuario quiero poder consultar las detecciones que se dieron en cada activación del dispositivo.
 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|    |                     |           |            |               |             |
-|    |                     |           |            |               |             |
-|    |                     |           |            |               |             |
+|3.1 | Yo como usuario quiero detectar personas o algunas otras entidades agenas a un cierto espacio. | Alta | 3 Meses  |              |             |
+| 3.2 | Yo como usuario quiero iluminar la zona detectada con precencia de otras ajenas a un cierto espacio. | Alta | 3 Meses | |             |
+| 3.3 | Yo como usuario quiero que el dispositivo lance una alarma la cual avise si se detecto un movimiento. | Alta | 1 Mes |               |             |
+| 3.4 | Yo como usuario quiero poder almacenar informción de las detecciones que se dieron en cada activación de del dispositivo. | Semi-Alta | 1 Mes |               |             |
+| 3.5 | Yo como usuario quiero poder consultar las detecciones que se dieron en cada activación del dispositivo. | Semi-Alta | 1 Mes | A través de un dispositivo móvil | Brandon |
 
 ## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz
