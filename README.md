@@ -4,6 +4,7 @@ GDS0453 - Documentación proyecto IoT
 ## Integrantes
 - Brandon Jesús Soto Rangel
 - José Manuel Sánchez Arredondo
+-Victor Javier Otero
 
 ## Objetivo general
 El objetivo en general de nuestro proyecto es proteger espacios que no estan seguros o son propensos a se inseguros, por lo que proponemos
