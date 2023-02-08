@@ -31,13 +31,13 @@ nuestro proyecto para hacer seguras de esas zonas a las que propensa la inseguri
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
-|2.1|  Esp32  | Es la denominación de una familia de chips SoC de bajo coste y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.            |        | 1         | $150            |
-|2.2|  Cables          | Clabes por los cuales se harán conecciones entre sensores, actuadores y la esp32|        | 8         |  $20           |
-|2.3| Foco con socket  | Foco el cual será controlado para iluminar una zona.   |        | 1    | $80            |
-|2.4| Sensor PIR  | Es un dispositivo de deteccion de presencia. |        | 1   |  $70           |
-|2.5| Modulo Relay  | Es un dispositivo que funciona como un interruptor controlado por un circuito eléctrico. |        | 1 | $100  |
-|2.6| Raspberry Pi  | Consiste en una placa base que soporta distintos componentes de un ordenador como un procesador ARM de hasta 1500 MHz, un chip gráfico y una memoria RAM de hasta 8 GB. Además, tiene otras muchas otras posibilidades. Gracias a sus puertos y entradas, permite conectar dispositivos periféricos. |        |  1        | $2750            |
-|2.7| Buzzer  | Es un pequeño duspositivo capaz de convertir energía eléctrica en sonido. |        |  1       | $20             |
+|2.1|  Esp32  | Es la denominación de una familia de chips SoC de bajo coste y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.            |![image](https://user-images.githubusercontent.com/106613839/217649811-9335a9c7-5a4c-4813-8f17-e03488f52967.png)| 1         | $150            |
+|2.2|  Cables          | Clabes por los cuales se harán conecciones entre sensores, actuadores y la esp32|![image](https://user-images.githubusercontent.com/106613839/217650692-88574d94-022c-44fe-a183-58dd5121c26a.png)| 20         |  $20           |
+|2.3| Foco con socket  | Foco el cual será controlado para iluminar una zona.   |![image](https://user-images.githubusercontent.com/106613839/217650095-d221a148-1c63-45fc-8211-0f1e97fa8816.png)| 1    | $80            |
+|2.4| Sensor PIR  | Es un dispositivo de deteccion de presencia. |![image](https://user-images.githubusercontent.com/106613839/217650180-a6823830-87e4-4c25-aaa7-666262828d59.png)| 1   |  $70           |
+|2.5| Modulo Relay  | Es un dispositivo que funciona como un interruptor controlado por un circuito eléctrico. |![image](https://user-images.githubusercontent.com/106613839/217650285-e2eb47d3-dd0d-417d-8b56-bc9ed793780a.png)| 1 | $100  |
+|2.6| Raspberry Pi  | Consiste en una placa base que soporta distintos componentes de un ordenador como un procesador ARM de hasta 1500 MHz, un chip gráfico y una memoria RAM de hasta 8 GB. Además, tiene otras muchas otras posibilidades. Gracias a sus puertos y entradas, permite conectar dispositivos periféricos. |![image](https://user-images.githubusercontent.com/106613839/217650399-cdfdb686-4b04-4740-9ed4-f50115d25a98.png)|  1        | $2750            |
+|2.7| Buzzer  | Es un pequeño duspositivo capaz de convertir energía eléctrica en sonido. |![image](https://user-images.githubusercontent.com/106613839/217650467-74e67b77-a1b1-4a00-9268-57ff7921a149.png)|  1       | $20             |
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
 - Yo como usuario quiero detectar personas o algunas otras entidades agenas a un cierto espacio.
