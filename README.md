@@ -58,3 +58,4 @@ nuestro proyecto para hacer seguras de esas zonas a las que propensa la inseguri
 ## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz
 
+![image](https://user-images.githubusercontent.com/106613839/217649648-a0f05df6-cb45-4d53-8a51-706120c40393.png)
